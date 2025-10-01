@@ -1,7 +1,6 @@
 # 💻 Titus Hadden – Portfolio Website
 
-This repository contains the source code for my personal developer portfolio website.  
-It highlights my projects, skills, and professional experience, and is hosted with a custom domain for easy access.  
+This is my personal portfolio website, showcasing my projects, skills, and experience as a developer.  
 
 🌐 **Live Website:** [https://yourdomain.com](https://yourdomain.com)
 
